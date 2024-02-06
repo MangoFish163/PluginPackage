@@ -1,0 +1,16 @@
+2024-02-06 06:57:01 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 06:57:14 - "sync_pwn_send_client" {"code":200,"message":"OK","timeout":13985,"type":"1"}
+2024-02-06 06:57:48 - "sync_paypal_waybill_number 1||" {"Authorization":"Bearer A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","Content-Type":"application\/json"}
+2024-02-06 06:57:48 - "sync_paypal_waybill_number 2" {"trackers":[{"status":"SHIPPED","transaction_id":"22222222"}]}
+2024-02-06 06:57:50 - "sync_paypal_waybill_number 3" {"headers":{},"body":"{\"errors\":[{\"name\":\"NOT_AUTHORIZED\",\"message\":\"Authorization failed due to insufficient permissions\",\"debug_id\":\"b79d6d4d1fece\",\"details\":[{\"location\":\"body\"}]}]}","response":{"code":403,"message":"Forbidden"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+2024-02-06 06:57:50 - "sync_paypal_waybill_number 4" {"errors":[{"name":"NOT_AUTHORIZED","message":"Authorization failed due to insufficient permissions","debug_id":"b79d6d4d1fece","details":[{"location":"body"}]}]}
+2024-02-06 07:19:58 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:22:28 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:23:12 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:24:05 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:27:32 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:28:19 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:31:35 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:32:11 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:35:08 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}
+2024-02-06 07:44:19 - {"access_token":"A21AAKAxvWflrqkGFf37SzcHpVMyI5G7AdO0tIjHJfJuXOwYZkPUXArFSKjkfk3hjJxup9eAKk3X2MUQq60UcPHW0HtnhgLlA","expires_in":32100,"begin_cache":1707184519}

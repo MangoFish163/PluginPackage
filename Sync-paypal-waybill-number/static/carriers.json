@@ -1,0 +1,186 @@
+[
+    {
+        "Enum": "99MINUTOS",
+        "Description": "99minutos"
+    },
+    {
+        "Enum": "A2B_BA",
+        "Description": "A2B Express Logistics"
+    },
+    {
+        "Enum": "ABCUSTOM_SFTP",
+        "Description": "AB Custom Group"
+    },
+    {
+        "Enum": "ACILOGISTIX",
+        "Description": "ACI Logistix"
+    },
+    {
+        "Enum": "ACOMMERCE",
+        "Description": "ACOMMERCE"
+    },
+    {
+        "Enum": "ACTIVOS24_API",
+        "Description": "Activos24"
+    },
+    {
+        "Enum": "ADS",
+        "Description": "ADS Express"
+    },
+    {
+        "Enum": "AEROFLASH",
+        "Description": "AEROFLASH"
+    },
+    {
+        "Enum": "AGEDISS_SFTP",
+        "Description": "Agediss"
+    },
+    {
+        "Enum": "AIR_21",
+        "Description": "AIR 21"
+    },
+    {
+        "Enum": "AIRSPEED",
+        "Description": "AIRSPEED"
+    },
+    {
+        "Enum": "AIRTERRA",
+        "Description": "Airterra"
+    },
+    {
+        "Enum": "AITWORLDWIDE_API",
+        "Description": "AIT"
+    },
+    {
+        "Enum": "AITWORLDWIDE_SFTP",
+        "Description": "AIT"
+    },
+    {
+        "Enum": "ALLIED_EXPRESS_FTP",
+        "Description": "Allied Express (FTP)"
+    },
+    {
+        "Enum": "ALLJOY",
+        "Description": "ALLJOY SUPPLY CHAIN"
+    },
+    {
+        "Enum": "AMAZON_EMAIL_PUSH",
+        "Description": "Amazon"
+    },
+    {
+        "Enum": "AMAZON_ORDER",
+        "Description": "Amazon order"
+    },
+    {
+        "Enum": "AMAZON_UK_API",
+        "Description": "amazon_uk_api"
+    },
+    {
+        "Enum": "AMS_GRP",
+        "Description": "AMS Group"
+    },
+    {
+        "Enum": "ANDREANI_API",
+        "Description": "Andreani"
+    },
+    {
+        "Enum": "ANTERAJA",
+        "Description": "Anteraja"
+    },
+    {
+        "Enum": "ARAMEX",
+        "Description": "Aramex"
+    },
+    {
+        "Enum": "ARAMEX_API",
+        "Description": "Aramex"
+    },
+    {
+        "Enum": "ARASKARGO",
+        "Description": "Aras Cargo"
+    },
+    {
+        "Enum": "ARGENTS_WEBHOOK",
+        "Description": "Argents Express Group"
+    },
+    {
+        "Enum": "ASENDIA_DE",
+        "Description": "asendia_de"
+    },
+    {
+        "Enum": "ATSHEALTHCARE_REFERENCE",
+        "Description": "ATS Healthcare"
+    },
+    {
+        "Enum": "ATSHEALTHCARE",
+        "Description": "ATS Healthcare"
+    },
+    {
+        "Enum": "AUEXPRESS",
+        "Description": "Au Express"
+    },
+    {
+        "Enum": "AUSTRALIA_POST_API",
+        "Description": "Australia Post"
+    },
+    {
+        "Enum": "AVERITT",
+        "Description": "Averitt Express"
+    },
+    {
+        "Enum": "AXLEHIRE_FTP",
+        "Description": "Axlehire"
+    },
+    {
+        "Enum": "AXLEHIRE",
+        "Description": "AxleHire"
+    },
+    {
+        "Enum": "BARQEXP",
+        "Description": "Barq"
+    },
+    {
+        "Enum": "BDMNET",
+        "Description": "BDMnet"
+    },
+    {
+        "Enum": "BEL_BELGIUM_POST",
+        "Description": "bel_belgium_post"
+    },
+    {
+        "Enum": "BLR_BELPOST",
+        "Description": "Belpost"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "GAC",
+        "Description": "GAC"
+    },
+    {
+        "Enum": "OTHER",
+        "Description": "添加自定义承运方"
+    }
+]
